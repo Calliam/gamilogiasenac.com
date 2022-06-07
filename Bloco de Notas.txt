@@ -1,0 +1,45 @@
+sistema de ranking baseado no level do estudante
+
+- metodos de subir de nivel
+	tempo na escola
+	nota acima de 6
+	otimo comportamento
+
+Sistema de Conquista e medalhas
+
+- Medalhas de maestria ( de acordo com as matérias)
+	Mestre em matemática (niveis 1, 2 e 3) e etc
+
+Sistema de Conquistas mesclado com sistema de Maestria
+
+- Conquistas baseadas nas medalhas
+
+ranked bimestral
+	premiação por pontos creditados
+
+Sistema Ranked Semanal
+	Tabela dos melhores 5 estudantes
+		tabelas para leveis significativos
+
+	0 - 3
+	4 - 7
+	8 a 10 ( ultimos leveis) 
+
+Sistema de premiação virtual com bonus packs etc
+
+missões
+
+- baseado em nota média / entrega de trabalhos
+/ atividade socio-ativas
+
+  
+Painel de Perfil do Aluno contendo insignias
+
+- propio dono do perfil
+	barra de level
+	botão de editar a exibição de insignias
+	botão de verificar tarefas diarias
+
+- visitantes do perfil
+
+	exibir level, foto e as insiginias designadas pelo dono do perfil
